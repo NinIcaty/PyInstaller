@@ -1,2 +1,3 @@
 # PyInstaller
-An installer template
+A Python project installer template
+Made using Bash
