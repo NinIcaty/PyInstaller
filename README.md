@@ -1,0 +1,2 @@
+# PyInstaller
+An installer template
